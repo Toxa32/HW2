@@ -1,0 +1,15 @@
+D:\SEM_2\task_10\bin\Debug\net7.0\task_10.exe
+D:\SEM_2\task_10\bin\Debug\net7.0\task_10.deps.json
+D:\SEM_2\task_10\bin\Debug\net7.0\task_10.runtimeconfig.json
+D:\SEM_2\task_10\bin\Debug\net7.0\task_10.dll
+D:\SEM_2\task_10\bin\Debug\net7.0\task_10.pdb
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.csproj.AssemblyReference.cache
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.AssemblyInfoInputs.cache
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.AssemblyInfo.cs
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.csproj.CoreCompileInputs.cache
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.dll
+D:\SEM_2\task_10\obj\Debug\net7.0\refint\task_10.dll
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.pdb
+D:\SEM_2\task_10\obj\Debug\net7.0\task_10.genruntimeconfig.cache
+D:\SEM_2\task_10\obj\Debug\net7.0\ref\task_10.dll
